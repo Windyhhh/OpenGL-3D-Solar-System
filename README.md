@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 OpenGL-3D-Solar-System
+# OpenGL 3D 太阳系 | OpenGL-3D-Solar-System
 
 ### Real-time 3D graphics in C with OpenGL (GLFW).
 
